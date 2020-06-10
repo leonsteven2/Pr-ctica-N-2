@@ -48,7 +48,7 @@ Al analizar un circuito encontramos que los voltajes llegan a variar dependiendo
 
 Por otro lado, existen circuitos que contienen más de una fuente, y mallas que no tienen una fuente pero, que circula una corriente por sus lineas.
 
-# DIAGRAMAS
+# 4. DIAGRAMAS
 
 - Circuito para el análisis de mallas.
 
@@ -58,6 +58,18 @@ Por otro lado, existen circuitos que contienen más de una fuente, y mallas que 
 
 ![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/Analisis%20de%20mallas.png)
 
-# LISTA DE COMPONENTES
+# 5. LISTA DE COMPONENTES
 
 ![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/Materiales.PNG)
+
+# 6. CONCLUSIONES
+
+- Se demuestra la Ley de voltaje de Kirchhoff al analizar, cada malla como un circuito separado, o el circuito entero.
+- La Ley de Voltaje de kirchhoff se cumple en mallas por las que circula una corriente, aunque estas no tengan una fuente de voltaje.
+- Los resistores que se encuentran en dos mallas, en su linea de corriente van a tener una intensidad igual a la diferencia de las intensidades de las mallas en las que se encuentra, no obstante el valor obtenido da la igualdad establecida por la Ley de Voltaje de Kirchhoff
+- La Ley de Voltaje de Kirchhoff es aplicable a circuitos de corriente continua DC que tengan 1 o varias mallas, elementos o fuentes de voltaje.
+
+# 7. CRONOGRAMA 
+
+![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/cronograma-2.PNG)
+
