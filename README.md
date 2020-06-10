@@ -3,6 +3,8 @@
 Autores: León Jiphson, Figueroa Erick, Viracucha William.
 # 1. Planteamiento del problema
 .post p {
+text-align:justify;
+}
 Al analizar cualquier circuito eléctrico podemos encontrar dos elementos fundamentales, un voltaje y una corriente que circulan a través
 de él, y son estos mismos elementos que nos permiten analizar un circuito, de esta forma en 1948 Gustav Kirchhoff propone dos leyes, la 
 Ley de Corrientes de Kirchhoff (LCK) y la Ley de Voltajes de Kirchhoff (LVK), esta última plantea la siguiente tesis, la suma de las 
@@ -19,6 +21,6 @@ Para dar respuesta a la interrogante no se precisa de analizar todos los circuit
 no se cumple la LVK, en este caso utilizaremos un circuito simplificado que ha nuestro parecer cumple con  los requisitos que plantea
 la interrogante, el cuál consistirá en tener un circuito con varios caminos cerrados y dos fuentes de voltaje en diferentes partes del 
 circuito.
-text-align:justify;}
+
 # 2. Objetivos
 
