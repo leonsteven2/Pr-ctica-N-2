@@ -69,10 +69,19 @@ Por otro lado, existen circuitos que contienen más de una fuente, y mallas que 
 - Los resistores que se encuentran en dos mallas, en su linea de corriente van a tener una intensidad igual a la diferencia de las intensidades de las mallas en las que se encuentra, no obstante el valor obtenido da la igualdad establecida por la Ley de Voltaje de Kirchhoff
 - La Ley de Voltaje de Kirchhoff es aplicable a circuitos de corriente continua DC que tengan 1 o varias mallas, elementos o fuentes de voltaje.
 
-# 7. CRONOGRAMA 
+# 7. RECOMENDACIONES
+
+- Observar que el circuito se encuentre armado de la misma forma que el diagrama, para evitar fallos en las mediciones, sin embargo, aunque se cambien las resistencias se cumplirá la Ley de Voltaje de Kirchhoff
+
+# 8. CRONOGRAMA 
 
 ![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/cronograma-2.PNG)
 
-# BIBLIOGRAFÍA
+# 9. BIBLIOGRAFÍA
 
 - http://www.ecorfan.org/bolivia/researchjournals/Tecnologia_e_innovacion/vol4num13/Revista_de_Tecnologia_e_Innovacion_V4_N13_5.pdf
+- http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+
+# 10. ANEXOS
+
+- https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/Anexos/C%C3%A1lculos%20Anal%C3%ADticos.pdf
