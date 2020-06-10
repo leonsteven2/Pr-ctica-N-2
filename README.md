@@ -54,3 +54,10 @@ Por otro lado, existen circuitos que contienen más de una fuente, y mallas que 
 
 ![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/Diagrama%20del%20Circuito.PNG)
 
+- Circuito para el análisis de mallas replicado en Tinkercad
+
+![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/Analisis%20de%20mallas.png)
+
+# LISTA DE COMPONENTES
+
+![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/Materiales.PNG)
