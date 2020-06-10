@@ -75,4 +75,4 @@ Por otro lado, existen circuitos que contienen más de una fuente, y mallas que 
 
 # BIBLIOGRAFÍA
 
-[](http://www.ecorfan.org/bolivia/researchjournals/Tecnologia_e_innovacion/vol4num13/Revista_de_Tecnologia_e_Innovacion_V4_N13_5.pdf)
+- http://www.ecorfan.org/bolivia/researchjournals/Tecnologia_e_innovacion/vol4num13/Revista_de_Tecnologia_e_Innovacion_V4_N13_5.pdf
