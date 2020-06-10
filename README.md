@@ -45,7 +45,12 @@ Al analizar un circuito encontramos que los voltajes llegan a variar dependiendo
 - **1.** Identificar las mallas en el circuito.
 - **2.** Idealizar la corriente que circula por la malla y el sentido de la misma, se recomienda el sentido positivo para todas las corrientes.
 - **3.** Aplicar la Ley de Voltaje de Kirchhoff realizando la sumatoria de las tensiones, usar la ley de Ohm para las relaciones de voltaje-corriente, y realizar el sistema de ecuaciones con las n incógnitas presentadas según el número de mallas.
-#
+
 Por otro lado, existen circuitos que contienen más de una fuente, y mallas que no tienen una fuente pero, que circula una corriente por sus lineas.
 
+# DIAGRAMAS
+
+- Circuito para el análisis de mallas.
+
+![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/Diagrama%20del%20Circuito.PNG)
 
