@@ -73,3 +73,6 @@ Por otro lado, existen circuitos que contienen más de una fuente, y mallas que 
 
 ![](https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/img/cronograma-2.PNG)
 
+# BIBLIOGRAFÍA
+
+[](http://www.ecorfan.org/bolivia/researchjournals/Tecnologia_e_innovacion/vol4num13/Revista_de_Tecnologia_e_Innovacion_V4_N13_5.pdf)
